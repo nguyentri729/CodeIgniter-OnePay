@@ -60,9 +60,15 @@ OnePay library for CodeIgniter
 
 - Kiểm tra kết quả :<br>
 <code>
+	
+	
+	
 if($kqua['status'] == true){
   //Giao dịch thành công !
 }else{
   //Giao dịch thất bại.
+}
+
+
 
 </code>
